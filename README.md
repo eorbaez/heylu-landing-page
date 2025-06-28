@@ -22,3 +22,5 @@ Optimized layout that adjusts gracefully on desktop, tablet, and mobile screens.
 
 Organized CSS for easy maintenance and future updates.
 
+Designed and developed by Eric Ortiz Baez for the Heylu project.
+
